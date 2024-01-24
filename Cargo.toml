@@ -1,11 +1,11 @@
 [package]
 name = "funkjon"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 authors = ["David <75451291+dulkoss@users.noreply.github.com>"]
 description = "One of the worst macros this world has ever been (dis)graced with."
 readme = "README.md"
-license-file = "LICENSE"
+license = "MIT"
 repository = "https://github.com/daviddenhaan/funkjon"
 homepage = "https://github.com/daviddenhaan/funkjon"
 keywords = ["macro", "bad"]
